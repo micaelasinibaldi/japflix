@@ -1,0 +1,81 @@
+.img-card-fit {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
+
+.img-cont {
+    height: 200px;
+    overflow: hidden;
+    background-color: beige;
+}
+
+.card-content{
+    height: 150px;
+    overflow: auto;
+}
+
+main {
+    min-height: calc(100vh - 100px);
+  }
+
+.fa {
+    color: white;
+}
+
+.checked{
+    color: orange;
+}
+
+.offcanvas-top{
+    height: fit-content;
+}
+
+.pelicula{
+    color:white;
+}
+
+.tagline{
+    font-style: italic;
+    color: grey;
+    clear: both;
+}
+
+.score{
+    display: flex;
+    float: right;
+    
+}
+
+.desplegable{
+    color: black;
+    margin-left: 10px;
+    float: left;
+}
+
+.desplegable-descripcion{
+    color: black;
+    margin-left: 10px;
+}
+
+hr{
+    color: #212529;
+}
+
+
+.offcanvas-body {
+    overflow: visible;
+}
+
+
+.more{
+    float: right;
+}
+
+.titulo{
+    background-color: #212529;
+    color: white;
+    float: left;
+    
+}
+
